@@ -1,0 +1,40 @@
+Information architecture ( Website)
+
+Information is at times missing:
+
+
+
+
+
+At times out-of-date:
+
+ 
+		
+At times overwhelming:
+
+-clearly define apps / router in about
+
+-address dev speak, use less I2P or Dev specific terms, use more relatable descriptions.
+
+-the "about i2p" is not even relevant to making someone want to use it who is not tech minded. If the goal is for greater adoption, or I2P for everyone, this info needs a spit-polish and rethink.
+
+
+-Browsing/ Profiles. Something to think about is why we call things profiles, etc - again using language that means nothing to many people and sounds confusing. Otherwise this section seems okay. 
+
+-configuration - point to best way to do things rather than having options where we can. 
+
+
+-remove "Getting Started" from FAQ, it should be easier to find.
+
+-the “What Can you do With it” needs be simplified . Being introduced to terms like “i2ptunnel” and eeproxy” initially made me run away! I just want to download it, and start using the apps it ships with! Maybe use the What Can you do with It" as an intro too apps it shipped with? Then this information can be removed from the console.
+
+		
+		
+At times not relevant:
+
+-Links page could be moved to wiki 
+		
+
+
+		
+Re-organizing the information on the website and in the console would make wayfinding and troubleshooting easier.  
