@@ -1,0 +1,33 @@
+Journey mapping.
+
+ What are the steps required to download and install I2P? 
+		
+Where are the pain points, and what could a guide/wizard do to help mitigate some of those pain points?  
+		
+Who is this journey for? What assumptions have we made about this process and who will use I2P? It assumes dev knowledge, privacy knowledge, technical ability
+		
+Recommended: https://tails.boum.org/install/
+		
+Is it important to have more than just java, IOS, Windows and Linux here?
+		
+Move extra installer/ launchers / specific java packaging to OS page too make the download page less overwhelming
+		
+Create sections for each OS & browser and clean up references to OSes and browsers in the shared text. 
+            
+Add descriptions where appropriate so that it is more clear what the recommended set up is
+		
+		
+Remove technical jargon
+		
+where to put docker and manual updates?
+		
+Set up wizard for first time installs ? what would be the order? Java, i2p, extensions? Requires screenshots, new docs, 
+		
+do we need reference to keys? Are some of these dev - centric / security centric items scary? Can this be presented better?
+
+Recommended: https://tails.boum.org/install/
+
+		
+		
+**Being directed to external website increases distrust.
+**Having to install a different package (Java) disrupts the flow 
