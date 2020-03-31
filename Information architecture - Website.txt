@@ -12,11 +12,11 @@ At times out-of-date:
 		
 At times overwhelming:
 
--clearly define apps / router in about
+-clearly define apps / router is about
 
--address dev speak, use less I2P or Dev specific terms, use more relatable descriptions.
+-address dev speak, use less I2P or Dev specific terms, use more relatable descriptions. 
 
--the "about i2p" is not even relevant to making someone want to use it who is not tech minded. If the goal is for greater adoption, or I2P for everyone, this info needs a spit-polish and rethink.
+-the "about i2p" is not even relevant to making someone want to use it who is not tech minded. If the goal is for greater adoption, or I2P for everyone, this needs to rewritten for a more general audience.
 
 
 -Browsing/ Profiles. Something to think about is why we call things profiles, etc - again using language that means nothing to many people and sounds confusing. Otherwise this section seems okay. 
