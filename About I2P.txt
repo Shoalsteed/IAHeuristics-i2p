@@ -1,16 +1,30 @@
 About I2P ( make this more about the specifics of the java bundle)
 
-I2P is a distributed ( p2P) network which was created with privacy first. It is an end to end encrypted  network with the ability to use ( and create) applications similar to your experience with the Internet, minus the privacy concerns. When you download I2P your bundle includes everything you need to join the network, as well as some applications to get you started communicating with the I2P community!
+I2P is a distributed ( p2P) network which was created with privacy first. 
+It is an end to end encrypted  network with the ability to use ( and create) 
+applications similar to your experience with the Internet, minus the privacy 
+concerns. When you download I2P your bundle includes everything you need to 
+join the network, as well as some applications to get you started communicating 
+with the I2P community!
 
-The I2P Router is what gets you connected to the network. When you start your router, it will establish a connection to the network. Once your router is integrated, you will begin participating in routing for others as well. While the fact that your computer is running I2P is public within the network, this is because that is how you participate in a distributed network. However, nobody can see your activities. If you are hosting content, sharing files or simply running your router to contribute bandwidth, none of the is visible to anyone.
+The I2P Router is what gets you connected to the network. When you start your 
+router, it will establish a connection to the network. Once your router is 
+integrated, you will begin participating in routing for others as well. 
+While the fact that your computer is running I2P is public within the network, 
+this is because that is how you participate in a distributed network. However,
+nobody can see your activities. If you are hosting content, sharing files or 
+simply running your router to contribute bandwidth, none of the is visible to anyone.
 
-All of the traffic on the I2P network is encrypted in multiple layers, and is internal to the I2P network. There are no exit nodes. You will not know content or destination or source of any traffic you are routing for others.
+All of the traffic on the I2P network is encrypted in multiple layers, and is 
+internal to the I2P network. There are no exit nodes. You will not know content 
+or destination or source of any traffic you are routing for others.
 
 Applications To Get you Started
 
 Email ( include screenshots of each service)
 
-Susi mail allows you to send and receive mail within the I2P network and too other email clients outside of the i2p network.
+Susi mail allows you to send and receive mail within the I2P network and too other
+email clients outside of the i2p network.
 
 Torrents
 
@@ -18,14 +32,20 @@ I2P Snark is included and provides encrypted BitTorrent transfers
 
 Set up your own I2P site
 
-Create your own content on the I2P network. Register your own .i2p domain and make the i2pnet more interesting! Set up a forum, a blog, mirror your website, or create one. 
+Create your own content on the I2P network. Register your own .i2p domain and make 
+the i2pnet more interesting! Set up a forum, a blog, mirror your website, or create one. 
 
 Chat
-Simply connect your irc client to the server at 127.0.0.1 port 688. I2P provides you with a preconfigured tunnel and will direct you to its IRC servers. 
+Simply connect your irc client to the server at 127.0.0.1 port 688. I2P provides you with 
+a preconfigured tunnel and will direct you to its IRC servers. 
 
 Outproxy
 
-The I2P network is designed to be an closed network, and offers the best security for your communications when used as it is intended. Internet access is possible by using an outproxy, and your router bundle includes the ability to set one up, as well one service which is run by and maintained Privacy Solutions. The Tor Browser is often a preferred way to access content on the  Internet privately. 
+The I2P network is designed to be an closed network, and offers the best security for your 
+communications when used as it is intended. Internet access is possible by using an outproxy, 
+and your router bundle includes the ability to set one up, as well one service which is run 
+by and maintained Privacy Solutions. The Tor Browser is often a preferred way to access content
+on the  Internet privately. 
 
 
 
