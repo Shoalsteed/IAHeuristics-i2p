@@ -4,7 +4,8 @@ Journey mapping.
 		
 Where are the pain points, and what could a guide/wizard do to help mitigate some of those pain points?  
 		
-Who is this journey for? What assumptions have we made about this process and who will use I2P? It assumes dev knowledge, privacy knowledge, technical ability
+Who is this journey for? What assumptions have we made about this process and who will use I2P? It assumes 
+dev knowledge, privacy knowledge, technical ability
 		
 Recommended: https://tails.boum.org/install/
 		
