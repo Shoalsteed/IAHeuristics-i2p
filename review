@@ -1,0 +1,18 @@
+• What is I2P?
+	• The goal of this project
+	• Design problems we addressed
+		• Documentation UX and website IA — many user groups, long history, TMI
+		• Terminology — benefits and issues with using Tor-like terminology
+		• I2P the network, community, tool? — how things fits together + creating new mental models
+	• Activities
+		• 1 heuristics review
+		• 2 IA workshops
+	• Results
+		• UI/UX recommendations (summarize heuristics review rec's)
+		• New IA proposal / principles going forward
+		• Browser extension direction
+		• Process recommendations: journey mapping, user testing
+	• Lessons
+		• Looking at IA and words surfaces underlying questions around strategy
+		• "How does it work" isn't just about the tech, but about how to use it
+		• When technology is new, rely on familiar patterns as much as possible
